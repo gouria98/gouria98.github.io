@@ -5,7 +5,7 @@
     "email": "gourianiln@gmail.com"
   },
 
-  "Education": [
+  "education": [
     {
       "institution": "Louisiana State University",
       "location": "Baton Rouge, Louisiana",
@@ -32,7 +32,7 @@
     }
   ],
 
-  "Research": [
+  "work": [
     {
       "name": "Louisiana State University",
       "position": "PhD Candidate — Impacts of Stratospheric Aerosol Injection on Marine Ecosystems with a focus on Coral Reefs",
@@ -53,7 +53,7 @@
     }
   ],
 
-  "Awards": [
+  "awards": [
         {
       "title": "Graduate Student Organization Travel Award",
       "date": "2024"
@@ -68,7 +68,7 @@
     }
   ],
 
-  "Skills": [
+  "skills": [
     {
       "name": "Programming",
       "keywords": ["Python", "R"]
@@ -83,7 +83,7 @@
     }
   ],
 
-  "Teaching": [
+  "teaching": [
     {
       "position": "Teaching Assistant — Introduction to Oceanography",
       "dates": "Fall 2023 & Fall 2024"

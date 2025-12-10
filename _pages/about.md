@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://chsharrison.wordpress.com/gouri-anil/' target='_blank'>PhD Candidate at LSU BOM Lab</a>."
+subtitle: "<a href='https://chsharrison.wordpress.com/gouri-anil/' target='_blank'>Biophysical Ocean Modeling Lab</a>."
 
 
 profile:

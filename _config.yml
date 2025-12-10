@@ -123,11 +123,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: LinkedIn Post
-    posts: 
-      - url: https://www.linkedin.com/posts/olu-dadematthews-md_3mt-graduateresearch-innovation-ugcPost-7398918326854307841-oGaY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACR1cd8BxxfBhUx2ila2tO753UepQ2rJF0g
-        title: "LSU 3-Minute Thesis Competition Finals"
-        published_date: 2025-11-26
   - name: Harrison Lab News
     posts:
       - url: https://chsharrison.wordpress.com/2025/05/07/phd-student-gouri-anil-presents-her-research-on-impacts-of-sai-on-coral-bleaching-at-the-global-reef-futures-symposium-in-mexico/

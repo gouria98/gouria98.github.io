@@ -1,11 +1,11 @@
 {
-  "basics": {
+  "Basics": {
     "name": "Gouri Anil",
     "label": "PhD Candidate",
     "email": "gourianiln@gmail.com"
   },
 
-  "education": [
+  "Education": [
     {
       "institution": "Louisiana State University",
       "location": "Baton Rouge, Louisiana",
@@ -32,7 +32,7 @@
     }
   ],
 
-  "work": [
+  "Research": [
     {
       "name": "Louisiana State University",
       "position": "PhD Candidate — Impacts of Stratospheric Aerosol Injection on Marine Ecosystems with a focus on Coral Reefs",
@@ -53,7 +53,7 @@
     }
   ],
 
-  "awards": [
+  "Awards": [
         {
       "title": "Graduate Student Organization Travel Award",
       "date": "2024"
@@ -68,7 +68,7 @@
     }
   ],
 
-  "skills": [
+  "Skills": [
     {
       "name": "Programming",
       "keywords": ["Python", "R"]
@@ -83,7 +83,7 @@
     }
   ],
 
-  "teaching": [
+  "Teaching": [
     {
       "position": "Teaching Assistant — Introduction to Oceanography",
       "dates": "Fall 2023 & Fall 2024"

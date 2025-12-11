@@ -45,10 +45,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-doctoral-research-featured-in-agu-eos",
-          title: 'Doctoral research featured in “AGU Eos.”',
+            },},{id: "news-research-highlight-in-agu-eos",
+          title: 'Research Highlight in AGU Eos',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {

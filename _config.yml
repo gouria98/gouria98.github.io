@@ -129,6 +129,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+
+  - name: ESS Open Archive
+    posts:
+      - url: https://essopenarchive.org/users/1008100/articles/1369628-impacts-of-timing-and-level-of-stratospheric-aerosol-injection-on-coral-thermal-bleaching
+        published_date: 2025-12-17
+        
   - name: AGU Eos
     posts:
       - url: https://eos.org/articles/could-solar-aerosol-injection-help-save-corals-from-bleaching

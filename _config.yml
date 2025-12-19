@@ -135,6 +135,7 @@ external_sources:
       - title: New preprint on Impacts of Timing and Level of Stratospheric Aerosol Injection on Coral Thermal Bleaching
         url: https://essopenarchive.org/users/1008100/articles/1369628-impacts-of-timing-and-level-of-stratospheric-aerosol-injection-on-coral-thermal-bleaching
         published_date: 2025-12-17
+        date: 2025-12-17
         
   - name: AGU Eos
     posts:
@@ -162,8 +163,6 @@ external_sources:
     posts:
       - url: https://india.mongabay.com/2022/06/the-arabian-sea-faces-an-increased-frequency-and-duration-of-marine-heatwave-days-finds-study/
         published_date: 2022-06-01
-
-  
 
 # -----------------------------------------------------------------------------
 # Newsletter

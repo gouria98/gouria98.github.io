@@ -135,7 +135,7 @@ external_sources:
       - title: New preprint on Impacts of Timing and Level of Stratospheric Aerosol Injection on Coral Thermal Bleaching
         url: https://essopenarchive.org/users/1008100/articles/1369628-impacts-of-timing-and-level-of-stratospheric-aerosol-injection-on-coral-thermal-bleaching
         published_date: 2025-12-17
-        date: 2025-12-17
+        date: 2025-12-17T00:00:00Z
         
   - name: AGU Eos
     posts:

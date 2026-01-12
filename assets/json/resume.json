@@ -54,6 +54,21 @@
   ],
 
   "awards": [
+      {
+      "title": "Travel Award to attend the 16th Geoengineering Model Intercomparison Project Meeting",
+      "location": "Tokyo, Japan",
+      "date": "2025"
+    },
+    {
+      "title": "Travel Award to attend the 2025 Degrees Global Forum",
+      "location": "South Africa",
+      "date": "2025"
+    },
+    {
+      "title": "Travel Award to attend the Scripps Marine Geoengineering Workshop",
+      "location": "United States",
+      "date": "2023"
+    },
         {
       "title": "Graduate Student Organization Travel Award",
       "date": "2024"
@@ -89,12 +104,21 @@
 
   "teaching": [
     {
-      "position": "Teaching Assistant — Introduction to Oceanography",
-      "dates": "Fall 2024"
-    },
-     {
-      "position": "Teaching Assistant — Introduction to Oceanography",
-      "dates": "Fall 2023"
-    }
-  ]
+     "position": "Teaching Assistant — Gulf of Mexico",
+     "institution": "Louisiana State University",
+     "dates": "Spring 2026",
+     "role": "Teaching Assistant and Guest Lecturer"
+  },
+   {
+     "position": "Teaching Assistant — Introduction to Oceanography",
+     "institution": "Louisiana State University",
+     "dates": "Fall 2024"
+   },
+  {
+     "position": "Teaching Assistant — Introduction to Oceanography",
+     "institution": "Louisiana State University",
+     "dates": "Fall 2023"
+  }
+]
+
 }

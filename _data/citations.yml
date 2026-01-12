@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-07'
+  last_updated: '2026-01-12'
 papers:
   091Div0AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: Climate Intervention through Stratospheric Aerosol Injection may partially mitigate marine heatwaves
     year: '2025'
+  091Div0AAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Potential impacts of climate interventions on marine ecosystems
+    year: '2026'
   091Div0AAAAJ:UeHWp8X0CEIC:
     citations: 2
     title: Potential impacts of climate interventions on marine ecosystems
@@ -22,7 +26,7 @@ papers:
     title: Assessing the need for Solar Climate Intervention to protect Coral Reefs
     year: '2024'
   091Div0AAAAJ:u5HHmVD_uO8C:
-    citations: 63
+    citations: 66
     title: Marine heatwaves in the Arabian Sea
     year: '2022'
   091Div0AAAAJ:zYLM7Y9cAGgC:

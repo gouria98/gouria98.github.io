@@ -129,6 +129,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: Harrison Lab News
+    posts:
+      - url: https://chsharrison.wordpress.com/2026/01/26/new-preprint-on-impacts-of-stratospheric-aerosol-injection-on-coral-thermal-bleaching-receives-agu-eos-highlight/
+        published_date: 2026-01-26
 
   - name: Harrison Lab News
     posts:

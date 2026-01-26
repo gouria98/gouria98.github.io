@@ -130,6 +130,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
 
+  - name: Harrison Lab News
+    posts:
+      - url: https://chsharrison.wordpress.com/2026/01/14/potential-impacts-of-climate-interventions-on-marine-ecosystems-is-available-for-preprint-on-ess-open-archive/
+        published_date: 2026-14-01
+        
   - name: AGU Eos
     posts:
       - url: https://eos.org/articles/could-solar-aerosol-injection-help-save-corals-from-bleaching

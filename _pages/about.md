@@ -22,7 +22,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 5  # leave blank to include all the blog posts
 ---
-I am a fourth year PhD candidate at LSU Biophysical Ocean Modeling lab. I am studying the impacts of solar climate intervention strategies, particularly, Stratospheric Aerosol Injection or SAI, on global coral reefs and other marine ecosystems. I aim to generate policy relevant research on climate intervention to inform scenario design and decision making.
+I am graduating with a PhD in Oceanography from Louisiana State University, where I worked in the Biophysical Ocean Modeling Lab since August 2022. I am studying the impacts of solar climate intervention strategies, particularly, Stratospheric Aerosol Injection or SAI, on global coral reefs and other marine ecosystems. I aim to generate policy relevant research on climate intervention to inform scenario design and decision making.
+
+I am currently working on developing a predictive model incorporating both heat and light stress data to improve projections of bleaching under model simulations of climate change and intervention.
 
 I have a masters in physical oceanography from Cochin University of Science and Technology and completed my thesis research at the Indian National Centre for Ocean Information Services. My work was on understanding the nature of marine heatwaves in the Arabian Sea region.
 
